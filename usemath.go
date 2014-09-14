@@ -1,3 +1,4 @@
+// Some magic is happening
 package main
 
 import (
